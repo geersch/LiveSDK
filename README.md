@@ -1,7 +1,7 @@
 Live SDK
 ========
 
-A 2-part series on how to work with the Live SDK from C#
+A 2-part tutorial on how to work with the Live SDK from C#
 
 You can find more information about the code on my blog.
 
